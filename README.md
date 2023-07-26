@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A lottery app is a mobile app that allows users to play a lottery game.
+The app can be built using the Flutter SDK, which is an open-source software development kit for building beautiful UI which is natively compiled.
+A button to generate a random number.
+The ability to view the odds of winning.
+A history of lottery numbers that the user has selected.
 
-A few resources to get you started if this is your first Flutter project:
+### Here are some of the benefits of building a lottery app in Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter is a cross-platform SDK, which means that the app can be built once and deployed to both iOS and Android devices.
+Flutter is a powerful SDK that allows for the creation of beautiful and responsive UIs.
+Flutter is easy to learn and use, even for beginners.
